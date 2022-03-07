@@ -1,9 +1,11 @@
 # About Me :writing_hand:
 
+
  
 ![AI & Computer Vision Professional @MoodMe](https://github.com/RehmanaYounis/RehmanaYounis/blob/main/banner%20(1).png)
 ## Hi there, I am Rehmana Younis  - AI & Computer Vision Professional @MoodMe 👋
-I am currently pursuing Master in Robotics Engineering from Columbus State University. I am passionate about enhancing my skills in Data science and in the area of AI, Machine Learning and Deep Learning. You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. 
+I am currently pursuing Master in Robotics Engineering from Columbus State University. I am passionate about enhancing my skills in Data science and in the area of AI, Machine Learning and Deep Learning. You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. ![GitHub Views](https://komarev.com/ghpvc/?username=Rehmana)
+
 
 ## Skills and Experiences
 :atom: Machine Learning <br />
@@ -102,8 +104,6 @@ alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a>
         </td>
 </tr>
 </tbody></table>
-
-
 
 
 
