@@ -46,7 +46,7 @@ alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a> 
 </p>
 
-## Youtube Channel Training Contents
+<h2 dir="auto"><i><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Tech Stack</i></h2>
 
 <table width="200">
 <tbody>
