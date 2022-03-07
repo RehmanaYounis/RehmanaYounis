@@ -29,11 +29,24 @@ I am currently pursuing Master in Robotics Engineering from Columbus State Unive
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RehmanaYounis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rehmana-younis//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg)  
 
 ## Project Previews
-<img src = "https://github.com/RehmanaYounis/RehmanaYounis/blob/main/linkden_AdobeCreativeCloudExpress.gif" width=256 />
 
-<img src = "https://github.com/RehmanaYounis/RehmanaYounis/blob/main/DroneManeuvering_AdobeCreativeCloudExpress%20(1).gif" width=256 height =256 />
+<p float="left">
+  <img src="https://github.com/RehmanaYounis/RehmanaYounis/blob/main/DroneManeuvering_AdobeCreativeCloudExpress%20(1).gif" width=256 height =256 />
+  <img src="https://github.com/RehmanaYounis/RehmanaYounis/blob/main/linkden_AdobeCreativeCloudExpress%20(1).gif" width=256 height =256 /> 
+ 
+</p>
 
-[![IMAGE ALT TEXT HERE](![image](![image](https://user-images.githubusercontent.com/74942033/156962358-8d9407eb-a725-4d6b-b546-e712d26ee12c.png)))](https://www.youtube.com/watch?v=3svguJ3EFec&list=PLIlynTfqwLjDhQGKJ1xyoMOPiRPJjuPrd&index=1)
+## Youtube Channel Training Contents
+<p float="left">
+ <a href="https://www.youtube.com/watch?v=3svguJ3EFec&list=PLIlynTfqwLjDhQGKJ1xyoMOPiRPJjuPrd&index=1
+" target="_blank"><img src="https://i.ytimg.com/vi/3svguJ3EFec/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRgEOyD0Rq9O3bttppW-d_5PoYKw" 
+alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a>
+  <a href="https://www.youtube.com/watch?v=_nmsFCWqnIw&list=PLIlynTfqwLjDhQGKJ1xyoMOPiRPJjuPrd&index=3
+" target="_blank"><img src="https://i.ytimg.com/vi/_nmsFCWqnIw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCyW2xGkhtEXa6vA37MjgX46VmNeA" 
+alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a> 
+</p>
+
+
 
 
 
