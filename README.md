@@ -1,4 +1,4 @@
-# About Me
+# About Me :writing_hand:
 
  
 ![AI & Computer Vision Professional @MoodMe](https://github.com/RehmanaYounis/RehmanaYounis/blob/main/banner%20(1).png)
@@ -6,7 +6,18 @@
 I am currently pursuing Master in Robotics Engineering from Columbus State University. I am passionate about enhancing my skills in Data science and in the area of AI, Machine Learning and Deep Learning. You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. 
 
 ## Skills and Experiences
-* Machine Learning / Deep Learning /Computer Vision/ U Net/  Data Science / Robotics/  Python / C++ / SQL /  CNN / Drones / Web Scraping 
+:atom: Machine Learning <br />
+:twisted_rightwards_arrows: Deep Learning<br />
+:electron: Web Scraping  <br />
+:camera_flash: Computer Vision<br />
+:pisces: U Net  <br />
+:signal_strength: Data Science<br />
+:robot: Robotics<br />
+:panda_face: Python<br />
+:spider_web: C++ <br />
+:globe_with_meridians: SQL<br />
+:flying_saucer: Drones<br />
+
 
 
 
