@@ -46,7 +46,9 @@ alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a> 
 </p>
 
-<table width="100">
+## Youtube Channel Training Contents
+
+<table width="200">
 <tbody>
     <tr>
         <td align="center" width="150">
