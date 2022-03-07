@@ -1,11 +1,12 @@
 # About Me
 
-## I am Rehmana Younis  - AI & Computer Vision Professional @MoodMe 👋 
+ 
 ![AI & Computer Vision Professional @MoodMe](https://github.com/RehmanaYounis/RehmanaYounis/blob/main/banner%20(1).png)
-
+## Hi there, I am Rehmana Younis  - AI & Computer Vision Professional @MoodMe 👋
 I am currently pursuing Master in Robotics Engineering from Columbus State University. I am passionate about enhancing my skills in Data science and in the area of AI, Machine Learning and Deep Learning. You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. 
 
-Skills: Machine Learning / Deep Learning /Computer Vision/ U Net/  Data Science / Robotics/  Python / C++ / SQL /  CNN / Drones / Web Scraping 
+## Skills and Experiences
+* Machine Learning / Deep Learning /Computer Vision/ U Net/  Data Science / Robotics/  Python / C++ / SQL /  CNN / Drones / Web Scraping 
 
 
 
