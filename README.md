@@ -4,6 +4,8 @@
  
 ![AI & Computer Vision Professional @MoodMe](https://github.com/RehmanaYounis/RehmanaYounis/blob/main/banner%20(1).png)
 ## Hi there, I am Rehmana Younis  - AI & Computer Vision Professional @MoodMe 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=RehmanaYounis)](https://github.com/RehmanaYounis/github-profile-trophy)
+
 I am currently pursuing Master in Robotics Engineering from Columbus State University. I am passionate about enhancing my skills in Data science and in the area of AI, Machine Learning and Deep Learning. You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. ![GitHub Views](https://komarev.com/ghpvc/?username=Rehmana)
 
 
@@ -112,7 +114,11 @@ alt="IMAGE ALT TEXT HERE" width=256 height =256 border="10" /></a>
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RehmanaYounis&show_icons=true&locale=en&layout=compact" alt="RehmanaYounis" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RehmanaYounis&show_icons=true&locale=en" alt="RehmanaYounis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RehmanaYounis&" alt="RehmanaYounis" /></p>
 
 <!---
 RehmanaYounis/RehmanaYounis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
