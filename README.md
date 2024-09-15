@@ -15,10 +15,9 @@
 
 :atom: Machine Learning (TensorFlow, PyTorch, Scikit-learn) <br /> :twisted_rightwards_arrows: Deep Learning (ResNet, U-Net, YOLO, EfficientNet) <br /> :electron: Web Scraping (Selenium, BeautifulSoup) <br /> :camera_flash: Computer Vision (OpenCV, Mediapipe) <br /> :robot: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) <br /> :cyclone: Multi-Agent Systems (Crew AI, Gemini) <br /> :pisces: Predictive Modeling <br /> :signal_strength: Data Science (Pandas, NumPy, Matplotlib) <br /> :robot: Robotics and Autonomous Systems <br /> :panda_face: Python, C++ <br /> :globe_with_meridians: SQL (MySQL, SQL Server) <br /> :flying_saucer: Drone Control and Maneuvering (Tello APIs) <br /> :cloud: Cloud Platforms (AWS, Azure, GCP) <br /> :wrench: DevOps (Docker, Kubernetes, Jenkins, Ansible) <br />
 
+
 🔭 I’m currently working on Log Analysis using LLMs and Autonomous Vehicle Projects
-
 🌱 I’m exploring advanced AI techniques like RAG and multi-agent systems
-
 👯 I’m looking to collaborate on AI, Data Science, and Computer Vision projects
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RehmanaYounis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rehmana-younis//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg)  
