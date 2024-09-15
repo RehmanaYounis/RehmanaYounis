@@ -17,9 +17,9 @@
 
 
 
-🔭 I’m currently working on Log Analysis using LLMs and Autonomous Vehicle Projects
-🌱 I’m exploring advanced AI techniques like RAG and multi-agent systems
-👯 I’m looking to collaborate on AI, Data Science, and Computer Vision projects
+🔭 I’m currently working on Log Analysis using LLMs and Autonomous Vehicle Projects<br />
+🌱 I’m exploring advanced AI techniques like RAG and multi-agent systems<br />
+👯 I’m looking to collaborate on AI, Data Science, and Computer Vision projects<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RehmanaYounis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rehmana-younis//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg)  
 
