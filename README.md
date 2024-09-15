@@ -3,10 +3,11 @@
 
  
 ![AI & Computer Vision Professional @MoodMe](https://github.com/RehmanaYounis/RehmanaYounis/blob/main/banner%20(1).png)
-## Hi there, I am Rehmana Younis  - AI & Computer Vision Professional @MoodMe 👋
+## Hi there, I am Rehmana Younis  - Software and Operations Engineer @Forescout 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=RehmanaYounis)](https://github.com/RehmanaYounis/github-profile-trophy)
 
-I am currently pursuing Master in Robotics Engineering from Columbus State University. I am passionate about enhancing my skills in Data science and in the area of AI, Machine Learning and Deep Learning. You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. ![GitHub Views](https://komarev.com/ghpvc/?username=Rehmana)
+Hey there! I’m Rehmana Younis, a software engineer with over a decade of experience turning complex ideas into practical solutions. Whether it's using AI to improve diagnostics, reduce fraud, or make cloud deployments more efficient, I’m all about solving real-world problems with technology. I love working with tools like Python, TensorFlow, and Docker, and I'm experienced with cloud platforms like AWS, GCP, and Azure. When I’m not deep in code, you’ll find me experimenting with new tech or sharing projects that push the boundaries of AI and automation. Feel free to explore my work and let’s connect!
+ You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. ![GitHub Views](https://komarev.com/ghpvc/?username=Rehmana)
 
 
 ## Skills and Experiences
