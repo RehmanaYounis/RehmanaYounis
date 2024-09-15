@@ -7,6 +7,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RehmanaYounis)](https://github.com/RehmanaYounis/github-profile-trophy)
 
 👋 Hey there! I’m Rehmana Younis, a software engineer with over a decade of experience turning complex ideas into practical solutions. Whether it's using AI to improve diagnostics, reduce fraud, or make cloud deployments more efficient, I’m all about solving real-world problems with technology. I love working with tools like Python, TensorFlow, and Docker, and I'm experienced with cloud platforms like AWS, GCP, and Azure. When I’m not deep in code, you’ll find me experimenting with new tech or sharing projects that push the boundaries of AI and automation. Feel free to explore my work and let’s connect!
+
+
  🔍 I also enjoy mentoring, guiding undergraduates in computer vision and NLP, and working on exciting projects like building emotion classifiers, log analyzers, and autonomous vehicle systems. I’m always keen to explore new tools and frameworks to continuously expand my knowledge and share insights with the community. Feel free to explore my work and let’s connect!
  You can check out my youtube channel at   https://www.youtube.com/channel/UCPBNh-HZd24l1bXI4YgeOXg. ![GitHub Views](https://komarev.com/ghpvc/?username=Rehmana)
 
